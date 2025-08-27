@@ -38,7 +38,6 @@
 
 ----
 
-<br>
 <div align="center">
    <h2>GITHUB STATS</h3>
   <br>
