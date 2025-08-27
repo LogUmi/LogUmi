@@ -1,5 +1,4 @@
-<p align="center">
-  ## Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie
+<h3 slign="center">Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
 </p>
 <p align="center">
   ![Image](./bin/LGE-GH.jpg)
