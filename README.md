@@ -4,8 +4,7 @@
 
 ### Contact :
 📧  **lgerard@@student.42perignan.fr**
- <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
- [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lgerard@student.42perignan.fr)
+<a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
 
 <!-- a retenir https://github.com/devicons/devicon/tree/master -->
 <!-- a retenir https://github.com/a11y-badges/a11y-markdown-badges?utm_source=chatgpt.com -->
