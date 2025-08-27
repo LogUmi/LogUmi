@@ -35,3 +35,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
   <img width="12" />
 </div>
+
+----
+
+![](https://github-readme-stats.vercel.app/api?username=LogUmi-do&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=LogUmi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=LogUmi-do&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
