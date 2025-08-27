@@ -1,12 +1,15 @@
 <p align="center">
-
   ## Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie
-
+</p>
+<p align="center">
   ![Image](./bin/LGE-GH.jpg)
-
+</p>
+<p align="center">
   ### Contact :
-  📧 email:  **lgerard@student.42perignan.fr** ou <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
-
+  📧 email:  **lgerard@student.42perignan.fr** 
+  ou 
+  <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
+</p>
 <!-- a retenir https://github.com/devicons/devicon/tree/master -->
 <!-- a retenir https://github.com/a11y-badges/a11y-markdown-badges?utm_source=chatgpt.com -->
 <!-- a retenir https://devicon.dev/?utm_source=chatgpt.com -->
@@ -42,6 +45,5 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Node.js.svg" height="50" alt="nodejs logo"  />
   <img width="12" />
-</p>
   <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="50" alt="typescript logo"  />
   <img width="12" />
