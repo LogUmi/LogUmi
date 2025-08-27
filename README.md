@@ -7,6 +7,7 @@
  <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original-wordmark.svg" height="100" alt="LinkedIn logo" />  </a>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lgerard@student.42perignan.fr)
 
+<! coucou > 
 ### Skills && Learning
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
 
