@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
+  <h2>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
   <img src="./bin/LGE-GH.jpg"  />
   <h3>Contact :</h3>
   <a href="mailto:lgerard@student.42perignan.fr">lgerard@student.42perignan.fr</a>
@@ -14,9 +14,8 @@
 
 ------------
 
-<br>
 <div align="center">
-  <h3>SKILLS  &&  LEARNING</h3>
+  <h2>SKILLS  &&  LEARNING</h3>
   <br>
    <img src="https://a11ybadges.com/badge?logo=macos" height="50" alt="macos logo"  />
   <img width="12" />
@@ -41,6 +40,8 @@
 
 <br>
 <div align="center">
+   <h2>GITHUB STATS</h3>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=LogUmi&theme=dark&hide_border=false&include_all_commits=false&count_private=true"  />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LogUmi&theme=dark&hide_border=false"  />
