@@ -5,19 +5,18 @@
   <a href="mailto:lgerard@student.42perignan.fr">lgerard@student.42perignan.fr</a>
   <p><br>ou<br></p>
   <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
+  <br>
 </div>
   <!-- a retenir https://github.com/devicons/devicon/tree/master -->
   <!-- a retenir https://github.com/a11y-badges/a11y-markdown-badges?utm_source=chatgpt.com -->
   <!-- a retenir https://devicon.dev/?utm_source=chatgpt.com -->
-
-
+<br>
 
 ------------
 
-
-
+<br>
 <div align="center">
-  <h3>SKILLS && LEARNING</h3>
+  <h3>SKILLS  &&  LEARNING</h3>
   <br>
    <img src="https://a11ybadges.com/badge?logo=macos" height="50" alt="macos logo"  />
   <img width="12" />
