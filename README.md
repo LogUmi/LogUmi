@@ -1,14 +1,11 @@
-<h3 slign="center">Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
-</p>
-<p align="center">
-  ![Image](./bin/LGE-GH.jpg)
-</p>
-<p align="center">
-  ### Contact :
-  📧 email:  **lgerard@student.42perignan.fr** 
-  ou 
+<div align="center">
+  <h3>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
+  <img src="./bin/LGE-GH.jpg"  />
+  <h3>Contact :</h3>
+  <p>📧 email:  **lgerard@student.42perignan.fr** 
+  ou </p>
   <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
-</p>
+</div>
 <!-- a retenir https://github.com/devicons/devicon/tree/master -->
 <!-- a retenir https://github.com/a11y-badges/a11y-markdown-badges?utm_source=chatgpt.com -->
 <!-- a retenir https://devicon.dev/?utm_source=chatgpt.com -->
