@@ -27,18 +27,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
-   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="c logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" height="50" alt="c++ logo"  />
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="50"/>
+  <br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
   <img width="12" />
 </div>
-
-
-
-  </div>
