@@ -2,17 +2,23 @@
   <h3>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
   <img src="./bin/LGE-GH.jpg"  />
   <h3>Contact :</h3>
-  <p>lgerard@student.42perignan.fr<br>ou<br></p>
+  <a href="mailto:lgerard@student.42perignan.fr">lgerard@student.42perignan.fr</a>
+  <p><br>ou<br></p>
   <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
-
+</div>
   <!-- a retenir https://github.com/devicons/devicon/tree/master -->
   <!-- a retenir https://github.com/a11y-badges/a11y-markdown-badges?utm_source=chatgpt.com -->
   <!-- a retenir https://devicon.dev/?utm_source=chatgpt.com -->
 
+###
+
+<div align="center">
   <h3>Skills && Learning</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-      original.svg" width="40" height="40"/>   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40"/>
+  <br>
+</div>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="50" alt="vim logo"  />
@@ -25,8 +31,7 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" height="50" alt="docker logo"  />
   <img width="12" />
-</div>
-<br>
+
 <div align="center">
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" height="50" alt="c logo"  />
   <img width="12" />
