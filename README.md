@@ -3,7 +3,8 @@
 ![Image](./bin/LGE-GH.jpg)
 
 ### Contact :
-📧  **lgerard@@student.42perignan.fr**
+📧 email:  **lgerard@student.42perignan.fr**
+
 <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
 
 <!-- a retenir https://github.com/devicons/devicon/tree/master -->
