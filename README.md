@@ -3,7 +3,7 @@
 ![Image](./bin/LGE-GH.jpg)
 
 ### Contact :
-
+📧  **lgerard@@student.42perignan.fr**
  <a href="https://www.linkedin.com/in/loic-gerard-b97091137/" target="_blank"> <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />  </a>
  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lgerard@student.42perignan.fr)
 
@@ -44,7 +44,3 @@
   <img width="12" />
   <img src="https://icon.icepanel.io/Technology/svg/TypeScript.svg" height="50" alt="typescript logo"  />
   <img width="12" />
-
-  <a href="https://www.linkedin.com/in/benjamin-poisson-783400176/" target="_blank">
-    <img src="https://a11ybadges.com/badge?logo=linkedin" height="33" alt="LinkedIn logo"  />
-  </a> >
