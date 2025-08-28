@@ -22,7 +22,8 @@
             srcset="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
                  height="50" alt="Apple">
-  </picture>    
+  </picture>
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
   <br> <br> <br>
