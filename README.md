@@ -17,16 +17,12 @@
 <div align="center">
   <h2>SKILLS  &&  LEARNING</h3>
   <br>
-  <img src="https://a11ybadges.com/badge?logo=macos" height="50" alt="macos logo"  />
-  <img width="12" />
   <picture>
     <source media="(prefers-color-scheme: dark)" 
             srcset="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg"
                  height="50" alt="Apple">
-</picture>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="50" style="background-color:white; padding:10px; border-radius:8px;" alt="macos logo" />
-  <img width="12" />      
+  </picture>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
   <br> <br> <br>
