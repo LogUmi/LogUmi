@@ -19,6 +19,8 @@
   <br>
    <img src="https://a11ybadges.com/badge?logo=macos" height="50" alt="macos logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
+  <img width="12" />      
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
   <br> <br> <br>
