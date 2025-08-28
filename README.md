@@ -15,7 +15,7 @@
 ------------
 
 <div align="center">
-  <h2>SKILLS  &&  LEARNING</h3>
+  <h2>SKILLS   &&   LEARNING</h3>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" 
