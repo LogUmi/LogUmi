@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h3>
+  <h2>Hello 🖖 I'm Loïc and I'm studying code at 42 Occitanie</h2>
   <img src="./bin/LGE-GH.jpg"  />
   <h3>Contact :</h3>
   <a href="mailto:lgerard@student.42perignan.fr">lgerard@student.42perignan.fr</a>
@@ -15,7 +15,7 @@
 ------------
 
 <div align="center">
-  <h2>SKILLS   &&   LEARNING</h3>
+  <h2>SKILLS   &&   LEARNING</h2>
   <br>
   <picture>
     <source media="(prefers-color-scheme: dark)" 
@@ -38,6 +38,14 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
   <img width="12" />
+</div>
+<br>
+
+----
+
+<div align="center">
+  <h2>PROJECTS</h2>
+  <br>
 </div>
 <br>
 
