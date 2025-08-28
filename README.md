@@ -29,7 +29,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <br> <br> <br>
-  <img src="./bin/C-pasoriginal.svg" height="100"/>
+  <img src="./bin/C-pasoriginal.svg" height="50"/>
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
   <img width="12" />
