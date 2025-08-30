@@ -46,6 +46,8 @@
 <div align="center">
   <h2>PROJECTS</h2>
   <br>
+  <a href="https://github.com/LogUmi/minishell/" target="_blank">
+    <img height="150" src="https://github.com/LogUmi/minishell/bin/minishell.png)" /a>
 </div>
 <br>
 
