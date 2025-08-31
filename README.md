@@ -46,7 +46,7 @@
 <div align="center">
   <h2>PROJECTS</h2>
   <br>
-  <a href="https://github.com/LogUmi/libft/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/libft/main/bin/libft.png"></a><a href="https://github.com/LogUmi/libft/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/ft_printf/main/img/ft_printf.png"></a><a href="https://github.com/LogUmi/minishell/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/minishell/main/bin/minishell.png"></a>
+  <a href="https://github.com/LogUmi/libft/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/libft/main/bin/libft.png"></a><a href="https://github.com/LogUmi/ft_printf/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/ft_printf/main/img/ft_printf.png"></a><a href="https://github.com/LogUmi/minishell/" target="_blank"><img height="150" src="https://raw.githubusercontent.com/LogUmi/minishell/main/bin/minishell.png"></a>
 </div>
 <br>
 
