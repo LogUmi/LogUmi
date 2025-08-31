@@ -52,10 +52,11 @@
 
 ----
 
-<div align="center" style="line-height:0;">
-  <br clear="both">
+<table cellspacing="0" cellpadding="0" align="center">
+  <tr valign="top">
   <a href="https://github.com/LogUmi/libft/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/libft/main/bin/libft.png"></a><a href="https://github.com/LogUmi/ft_printf/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/ft_printf/main/img/ft_printf.png"></a><a href="https://github.com/LogUmi/get_next_line/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/get_next_line/main/img/get_next_line.png"></a><a href="https://github.com/LogUmi/my-libft/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/my-libft/main/img/ma_libft.png"></a><a ref="https://github.com/LogUmi/push_swap/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/push_swap/main/img/push_swap.png"></a><a href="https://github.com/LogUmi/minishell/" target="_blank"><img height="150" style="vertical-align:top;" src="https://raw.githubusercontent.com/LogUmi/minishell/main/bin/minishell.png"></a>
-</div>
+  </tr>
+</table>
 
 
 <div align="center">
