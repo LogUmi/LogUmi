@@ -33,6 +33,8 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
+  <img width="10" />
   <br> <br> <br>
   <img src="./bin/C-pasoriginal.svg" height="50"/>
   <img width="10" />
