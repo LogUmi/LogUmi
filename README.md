@@ -36,9 +36,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker"/>
   <img width="10" />
   <br> <br> <br>
-  <img src="./bin/C-pasoriginal.svg" height="50"/>
+  <img src="./bin/C-pasoriginal.svg" height="50" alt="C"/>
   <img width="10" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" alt= "C++"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height"50" alt="YAML"/>
   <img width="10" />
 </div>
 <br>
