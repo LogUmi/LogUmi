@@ -40,11 +40,13 @@
   <img width="10" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="50" alt= "C++"/>
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="Markdown"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/go/go-original-wordmark.svg" height="50" alt="Markdown"/>
   <img width="10" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/python/python-original-wordmark.svg" height="40" alt="Markdown"/>
   <img width="10" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="50" alt="Markdown"/>
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5"/>
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" height="50" alt="YAML"/>
   <img width="10" />
